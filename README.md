@@ -3,7 +3,7 @@
 Para rodar a aplicação:
 
 - Execute "npm install" no terminal para instalar as dependencias necessárias.
-- Execite "npm start" para rodar a aplicação
+- Execute "npm start" para rodar a aplicação
 
 O projeto se baseia em um caderno de questões:
 
