@@ -1,5 +1,10 @@
 # Projeto MPV 2ª Sprint Kelvin Revertis dos Santos.
 
+Para rodar a aplicação:
+
+- Execute "npm install" no terminal para instalar as dependencias necessárias.
+- Execite "npm start" para rodar a aplicação
+
 O projeto se baseia em um caderno de questões:
 
 - Tela inicial há listagem de cadernos de questões
