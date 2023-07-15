@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "title": "Caderno de questões 1",
+  "questionAmount": 3,
+  "answered": true,
+  "answers": [
+    {
+      "title": "Qual é o maior planeta do sistema solar?",
+      "body": "O sistema solar é composto por vários planetas de tamanhos diferentes. Um deles se destaca por ser o maior em termos de tamanho e massa. Esse planeta é conhecido por sua atmosfera gasosa e por ter uma grande quantidade de luas orbitando ao seu redor.",
+      "correct-answers": "Júpiter"
+    },
+    {
+      "title": "Qual é a capital da França?",
+      "body": "A França é um país localizado na Europa. Sua capital é uma das cidades mais visitadas do mundo e é famosa por seus monumentos icônicos, como a Torre Eiffel e o Museu do Louvre. É conhecida por sua rica história, arquitetura deslumbrante, moda, arte e gastronomia.",
+      "correct-answers": "Paris"
+    },
+    {
+      "title": "O que é fotossíntese?",
+      "body": "A fotossíntese é o processo pelo qual as plantas convertem luz solar em energia química, que é armazenada na forma de carboidratos. Durante esse processo, as plantas capturam dióxido de carbono do ar e liberam oxigênio como subproduto. Esse processo é essencial para a sobrevivência das plantas e também desempenha um papel fundamental na produção de oxigênio atmosférico.",
+      "correct-answers": "Processo de conversão de luz solar em energia química pelas plantas"
+    }
+  ]
+}

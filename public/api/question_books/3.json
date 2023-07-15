@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "title": "Caderno de questões 3",
+  "questionAmount": 3,
+  "answered": false,
+  "answers": [
+    {
+      "title": "O que é a Teoria da Relatividade?",
+      "body": "A Teoria da Relatividade é uma das teorias mais importantes da física moderna, desenvolvida por Albert Einstein. Ela descreve como a gravidade afeta o espaço e o tempo, mostrando que eles não são entidades independentes, mas estão interligados em um espaço-tempo curvo. Essa teoria revolucionou a nossa compreensão do universo e tem sido confirmada por diversos experimentos e observações.",
+      "correct-answers": "Teoria desenvolvida por Albert Einstein que descreve a gravidade como uma curvatura do espaço-tempo"
+    },
+    {
+      "title": "Quem pintou a Mona Lisa?",
+      "body": "A Mona Lisa é uma das pinturas mais famosas e icônicas do mundo. Ela foi criada por um renomado artista italiano, conhecido por suas contribuições para a arte do Renascimento. A pintura retrata uma mulher com um leve sorriso, sendo um dos trabalhos mais emblemáticos e misteriosos da história da arte.",
+      "correct-answers": "Leonardo da Vinci"
+    },
+    {
+      "title": "Qual é a fórmula química da água?",
+      "body": "A água é uma substância essencial para a vida e é encontrada em abundância na Terra. Sua fórmula química representa os elementos que a compõem. Conhecida por suas propriedades únicas, a água desempenha um papel vital em várias reações químicas e processos biológicos.",
+      "correct-answers": "H20"
+    }
+  ]
+}
